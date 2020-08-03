@@ -1,5 +1,5 @@
 
-%code to plot BezCurve
+%code to plot Bezier Curve
 points_number_input=input('How many points?  ');
 
 [Coordinates_input]=input('Enter Co-ordinates in array form ');
